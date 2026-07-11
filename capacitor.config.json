@@ -1,0 +1,8 @@
+{
+  "appId": "com.aclsprova.app",
+  "appName": "Prova ACLS",
+  "webDir": "www",
+  "server": {
+    "url": "https://prova-acls.pages.dev"
+  }
+}

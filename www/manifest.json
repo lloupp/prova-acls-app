@@ -1,0 +1,9 @@
+{
+  "name": "Prova ACLS",
+  "short_name": "Prova ACLS",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#004499",
+  "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]
+}

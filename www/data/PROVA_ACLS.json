@@ -1,0 +1,529 @@
+{
+  "titulo": "Prova ACLS - Exame A",
+  "subtitulo": "Suporte Avançado de Vida Cardiovascular",
+  "data": "13 de abril de 2021",
+  "instituicao": "American Heart Association",
+  "instrucoes": "Não faça marcações neste exame. Registre a melhor resposta na folha de respostas separada.",
+  "total_questoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "text": "Qual desses exames deve ser realizado, no caso de um paciente com suspeita de AVC, o mais rápido possível e não mais do que 20 minutos após a chegada ao hospital?",
+      "options": {
+        "A": "ECG de 12 derivações",
+        "B": "Enzimas cardíacas",
+        "C": "Coagulograma",
+        "D": "Tomografia computadorizada de cabeça sem contraste"
+      }
+    },
+    {
+      "id": 2,
+      "text": "Qual das opções melhor descreve esse ritmo?",
+      "options": {
+        "A": "Taquicardia ventricular monomórfica",
+        "B": "Taquicardia ventricular polimórfica",
+        "C": "Taquicardia supraventricular",
+        "D": "Fibrilação ventricular"
+      },
+      "image": "ecg_q02.png"
+    },
+    {
+      "id": 3,
+      "text": "Que método é recomendável para a escolha de uma via aérea orofaríngea de tamanho adequado?",
+      "options": {
+        "A": "Medir do canto da boca até o ângulo da mandíbula",
+        "B": "Medir da cartilagem tireoidea até a parte inferior do lóbulo da orelha",
+        "C": "Fazer uma estimativa usando a fórmula Peso (kg)/8 + 2",
+        "D": "Fazer uma estimativa usando o tamanho do dedo do paciente"
+      }
+    },
+    {
+      "id": 4,
+      "text": "Você está cuidando de um paciente com suspeita de AVC cujos sintomas começaram 2 horas atrás. A tomografia computadorizada estava normal, sem sinais de hemorragia. O paciente não apresenta nenhuma contraindicação ao tratamento fibrinolítico. Qual a melhor abordagem de tratamento para este paciente?",
+      "options": {
+        "A": "Manter o tratamento fibrinolítico por 24 horas",
+        "B": "Administrar tratamento fibrinolítico o mais cedo possível e considerar o tratamento endovascular",
+        "C": "Solicitar um ecocardiograma antes da administração de fibrinolíticos",
+        "D": "Aguardar os resultados da ressonância magnética"
+      }
+    },
+    {
+      "id": 5,
+      "text": "Qual a próxima etapa recomendável após uma tentativa de desfibrilação?",
+      "options": {
+        "A": "Verificar se há evidências de ritmo organizado no ECG",
+        "B": "Abrir a via aérea do paciente",
+        "C": "Determinar se há pulso carotídeo",
+        "D": "Reiniciar a RCP pelas compressões torácicas"
+      }
+    },
+    {
+      "id": 6,
+      "text": "Qual dos seguintes sinais é uma provável indicação de PCR em um paciente que não responde?",
+      "options": {
+        "A": "Frequência de pulso lenta e fraca",
+        "B": "Cianose",
+        "C": "Suspiro agonal",
+        "D": "Frequência do pulso irregular e fraca"
+      }
+    },
+    {
+      "id": 7,
+      "text": "Você está avaliando um homem de 58 anos com desconforto torácico. A pressão arterial é 92/50 mmHg, a frequência cardíaca é 92 batimentos/min, a frequência respiratória é 14 incursões/min e a leitura de oximetria de pulso é 97%. Que etapa de avaliação é mais importante agora?",
+      "options": {
+        "A": "Avaliar a leitura de PetCO2",
+        "B": "Solicitar uma radiografia do tórax",
+        "C": "Obter um ECG de 12 derivações",
+        "D": "Solicitar exames laboratoriais"
+      }
+    },
+    {
+      "id": 8,
+      "text": "Durante cuidados pós-PCR, qual é a duração recomendada do controle direcionado da temperatura, depois que se consegue obter a temperatura alvo definida?",
+      "options": {
+        "A": "Pelo menos 8 horas",
+        "B": "Pelo menos 24 horas",
+        "C": "Pelo menos 36 horas",
+        "D": "Pelo menos 48 horas"
+      }
+    },
+    {
+      "id": 9,
+      "text": "Que tipo de bloqueio atrioventricular melhor descreve esse ritmo?",
+      "options": {
+        "A": "Bloqueio atrioventricular de terceiro grau",
+        "B": "Bloqueio atrioventricular de segundo grau tipo I",
+        "C": "Bloqueio atrioventricular de primeiro grau",
+        "D": "Bloqueio atrioventricular de segundo grau tipo II"
+      },
+      "image": "ecg_q09.png"
+    },
+    {
+      "id": 10,
+      "text": "Sua equipe de emergência pré-hospitalar encontra um homem de 59 anos deitado no chão da cozinha. Você verifica que ele não está respondendo. Qual é a próxima etapa em sua avaliação e tratamento desse paciente?",
+      "options": {
+        "A": "Usar o DEA",
+        "B": "Verificar respiração e pulso do paciente",
+        "C": "Abrir a via aérea do paciente",
+        "D": "Verificar se o paciente está usando algum bracelete de alerta médico"
+      }
+    },
+    {
+      "id": 11,
+      "text": "Com base na apresentação inicial desse paciente, que quadro clínico você acredita que tenha desencadeado a PCR?",
+      "options": {
+        "A": "Síndrome coronária aguda",
+        "B": "Insuficiência cardíaca aguda",
+        "C": "AVC isquêmico agudo",
+        "D": "Taquicardia supraventricular com dor torácica isquêmica"
+      },
+      "scenario": "Há 2 dias, um homem de 45 anos teve implantados stents em artéria coronária. Hoje, ele está sentindo dor intensa e relatando desconforto (\"esmagamento\") no tórax. Ele está pálido e diaforético e com a pele fria ao toque. O pulso radial está bastante fraco, a pressão arterial é 64/40 mmHg, a frequência respiratória é 28 ventilações/min e a saturação de oxigênio é 89% no ar ambiente. No momento em que foi conectado, o monitor cardíaco evidenciou uma taquicardia ventricular, que rapidamente mudou para fibrilação ventricular."
+    },
+    {
+      "id": 12,
+      "text": "Além da desfibrilação, que intervenção deve ser realizada imediatamente?",
+      "options": {
+        "A": "Obtenção de via aérea avançada",
+        "B": "Administração de medicação vasoativa",
+        "C": "Compressões torácicas",
+        "D": "Acesso vascular"
+      },
+      "scenario": "Há 2 dias, um homem de 45 anos teve implantados stents em artéria coronária. Hoje, ele está sentindo dor intensa e relatando desconforto (\"esmagamento\") no tórax. Ele está pálido e diaforético e com a pele fria ao toque. O pulso radial está bastante fraco, a pressão arterial é 64/40 mmHg, a frequência respiratória é 28 ventilações/min e a saturação de oxigênio é 89% no ar ambiente. No momento em que foi conectado, o monitor cardíaco evidenciou uma taquicardia ventricular, que rapidamente mudou para fibrilação ventricular."
+    },
+    {
+      "id": 13,
+      "text": "A despeito duas tentativas de desfibrilação, o paciente continua em fibrilação ventricular. Que medicamento e que dose devem ser administrados primeiramente ao paciente?",
+      "options": {
+        "A": "Epinefrina 1 mg",
+        "B": "Amiodarona 300 mg",
+        "C": "Lidocaína 1 mg/kg",
+        "D": "Atropina 1 mg"
+      },
+      "scenario": "Há 2 dias, um homem de 45 anos teve implantados stents em artéria coronária. Hoje, ele está sentindo dor intensa e relatando desconforto (\"esmagamento\") no tórax. Ele está pálido e diaforético e com a pele fria ao toque. O pulso radial está bastante fraco, a pressão arterial é 64/40 mmHg, a frequência respiratória é 28 ventilações/min e a saturação de oxigênio é 89% no ar ambiente. No momento em que foi conectado, o monitor cardíaco evidenciou uma taquicardia ventricular, que rapidamente mudou para fibrilação ventricular."
+    },
+    {
+      "id": 14,
+      "text": "A despeito do medicamento administrado anteriormente e a continuidade da RCP, o paciente continua em fibrilação ventricular. Que outro medicamento deve ser administrado em seguida?",
+      "options": {
+        "A": "Epinefrina 1 mg",
+        "B": "Atropina 1 mg",
+        "C": "Sulfato de magnésio 1 g",
+        "D": "Lidocaína 1 a 1,5 mg/kg"
+      },
+      "scenario": "Há 2 dias, um homem de 45 anos teve implantados stents em artéria coronária. Hoje, ele está sentindo dor intensa e relatando desconforto (\"esmagamento\") no tórax. Ele está pálido e diaforético e com a pele fria ao toque. O pulso radial está bastante fraco, a pressão arterial é 64/40 mmHg, a frequência respiratória é 28 ventilações/min e a saturação de oxigênio é 89% no ar ambiente. No momento em que foi conectado, o monitor cardíaco evidenciou uma taquicardia ventricular, que rapidamente mudou para fibrilação ventricular."
+    },
+    {
+      "id": 15,
+      "text": "O paciente tem retorno da circulação espontânea e não consegue responder a comandos. Que intervenção pós-PCR imediata você escolhe para esse paciente?",
+      "options": {
+        "A": "Iniciar o controle direcionado da temperatura",
+        "B": "Verificar o nível de glicemia",
+        "C": "Administrar epinefrina",
+        "D": "Extubar"
+      },
+      "scenario": "Há 2 dias, um homem de 45 anos teve implantados stents em artéria coronária. Hoje, ele está sentindo dor intensa e relatando desconforto (\"esmagamento\") no tórax. Ele está pálido e diaforético e com a pele fria ao toque. O pulso radial está bastante fraco, a pressão arterial é 64/40 mmHg, a frequência respiratória é 28 ventilações/min e a saturação de oxigênio é 89% no ar ambiente. No momento em que foi conectado, o monitor cardíaco evidenciou uma taquicardia ventricular, que rapidamente mudou para fibrilação ventricular."
+    },
+    {
+      "id": 16,
+      "text": "O que você teria feito primeiro se o paciente não tivesse entrado em fibrilação ventricular?",
+      "options": {
+        "A": "Estabelecido acesso IV",
+        "B": "Obtido um ECG de 12 derivações",
+        "C": "Administrado atropina 1 mg",
+        "D": "Realizado cardioversão sincronizada"
+      },
+      "scenario": "Há 2 dias, um homem de 45 anos teve implantados stents em artéria coronária. Hoje, ele está sentindo dor intensa e relatando desconforto (\"esmagamento\") no tórax. Ele está pálido e diaforético e com a pele fria ao toque. O pulso radial está bastante fraco, a pressão arterial é 64/40 mmHg, a frequência respiratória é 28 ventilações/min e a saturação de oxigênio é 89% no ar ambiente. No momento em que foi conectado, o monitor cardíaco evidenciou uma taquicardia ventricular, que rapidamente mudou para fibrilação ventricular."
+    },
+    {
+      "id": 17,
+      "text": "Como você pode aumentar a fração de compressões torácicas durante uma tentativa de ressuscitação?",
+      "options": {
+        "A": "Carregue o desfibrilador 15 segundos antes de verificar o ritmo",
+        "B": "Troque o responsável pela ventilação pelo responsável pela compressão durante a verificação do ritmo",
+        "C": "Administre epinefrina durante o ciclo de 2 minutos",
+        "D": "Inicie o acesso intravenoso ou intraósseo durante o ciclo de 2 minutos"
+      }
+    },
+    {
+      "id": 18,
+      "text": "Um membro da equipe não consegue realizar uma tarefa que lhe foi atribuída porque está além de seu escopo de atuação. Que medida o membro da equipe deve tomar?",
+      "options": {
+        "A": "Pedir uma nova tarefa ou função",
+        "B": "Atribuir essa tarefa a outro membro da equipe",
+        "C": "Realizá-la assim mesmo",
+        "D": "Consultar um especialista"
+      }
+    },
+    {
+      "id": 19,
+      "text": "Além da avaliação clínica, qual o método mais confiável para confirmar e monitorar o correto posicionamento de um tubo endotraqueal?",
+      "options": {
+        "A": "Gasometria arterial",
+        "B": "Radiografia do tórax",
+        "C": "Capnografia com forma de onda contínua",
+        "D": "Níveis de hemoglobina"
+      }
+    },
+    {
+      "id": 20,
+      "text": "Seu paciente encontra-se em PCR e foi intubado. Para avaliar a qualidade da RCP, o que você deve fazer?",
+      "options": {
+        "A": "Monitorar a PetCO2 do paciente",
+        "B": "Obter um ECG de 12 derivações",
+        "C": "Verificar o pulso do paciente",
+        "D": "Obter uma radiografia do tórax"
+      }
+    },
+    {
+      "id": 21,
+      "text": "Aos três minutos de uma tentativa de ressuscitação em uma PCR, um membro da equipe insere um tubo endotraqueal, enquanto outro aplica compressões torácicas. A capnografia mostra uma forma de onda persistente e PetCO2 de 8 mmHg. Qual o significado desse achado?",
+      "options": {
+        "A": "As compressões torácicas talvez não sejam eficazes.",
+        "B": "O tubo endotraqueal está no esôfago.",
+        "C": "O paciente atende aos critérios para encerramento dos esforços.",
+        "D": "A equipe está ventilando o paciente com frequência muito elevada (hiperventilação)."
+      }
+    },
+    {
+      "id": 22,
+      "text": "Qual das opções melhor descreve esse ritmo?",
+      "options": {
+        "A": "Bloqueio atrioventricular de primeiro grau",
+        "B": "Bloqueio atrioventricular de segundo grau tipo I",
+        "C": "Bloqueio atrioventricular de segundo grau tipo II",
+        "D": "Bloqueio atrioventricular de terceiro grau"
+      },
+      "image": "ecg_q22.png"
+    },
+    {
+      "id": 23,
+      "text": "Supondo que um membro da equipe está para cometer um erro durante uma tentativa de ressuscitação; o que melhor descreve a medida que o líder da equipe ou outros membros da equipe devem tomar?",
+      "options": {
+        "A": "Conduzir uma desfibrilação após a tentativa de ressuscitação",
+        "B": "Reatribuir as tarefas da equipe",
+        "C": "Dirigir-se ao membro da equipe imediatamente",
+        "D": "Afastar o membro da equipe do local"
+      }
+    },
+    {
+      "id": 24,
+      "text": "Um paciente com taquicardia de complexos estreitos estável, com acesso periférico IV já estabelecido, é refratário à primeira dose de adenosina. Que dose você deve administrar em seguida?",
+      "options": {
+        "A": "3 mg",
+        "B": "12 mg",
+        "C": "20 mg",
+        "D": "40 mg"
+      }
+    },
+    {
+      "id": 25,
+      "text": "Que tipo de bloqueio atrioventricular melhor descreve esse ritmo?",
+      "options": {
+        "A": "Primeiro grau",
+        "B": "Segundo grau tipo I",
+        "C": "Segundo grau tipo II",
+        "D": "Terceiro grau"
+      },
+      "image": "ecg_q25.png"
+    },
+    {
+      "id": 26,
+      "text": "Qual o objetivo principal de uma equipe de emergência médica (EEM) ou uma equipe de resposta rápida (ERR)?",
+      "options": {
+        "A": "Aprimorar o atendimento para pacientes hospitalizados em unidades de tratamento intensivo",
+        "B": "Aprimorar a evolução do paciente identificando e tratando a deterioração clínica precoce",
+        "C": "Fornecer consulta de diagnóstico para os pacientes do departamento de emergência",
+        "D": "Fornecer consulta on-line com o pessoal do SME em campo"
+      }
+    },
+    {
+      "id": 27,
+      "text": "Um paciente está sendo ressuscitado em um ambiente bastante barulhento. Um membro da equipe acredita ter ouvido uma ordem de 500 mg de amiodarona IV. Qual a melhor resposta desse membro da equipe?",
+      "options": {
+        "A": "\"OK.\"",
+        "B": "\"Tem certeza?\"",
+        "C": "\"Amiodarona 500 mg IV administrada.\"",
+        "D": "\"Recebi a ordem para administrar 500 mg de amiodarona IV. Está correto?\""
+      }
+    },
+    {
+      "id": 28,
+      "text": "Qual a dose oral recomendada de aspirina para um paciente com suspeita de síndrome coronária aguda?",
+      "options": {
+        "A": "40 mg",
+        "B": "81 mg",
+        "C": "162 a 325 mg",
+        "D": "350 a 650 mg"
+      }
+    },
+    {
+      "id": 29,
+      "text": "Você realizou 2 minutos de RCP. O monitor de ECG exibe o ritmo II da derivação mostrado aqui e o paciente não tem pulso. Outro membro da equipe reinicia as compressões torácicas e o acesso IV é estabelecido. O que você faz em seguida?",
+      "options": {
+        "A": "Inicia uma infusão de dopamina",
+        "B": "Administra atropina 0,5 mg",
+        "C": "Administra epinefrina 1 mg IV",
+        "D": "Obtém uma via aérea avançada"
+      },
+      "image": "ecg_q29.png"
+    },
+    {
+      "id": 30,
+      "text": "Qual a pressão arterial sistólica mínima que se deve tentar alcançar com a administração de fluidos ou de agentes vasoativos em um paciente hipotenso pós-PCR que obtém retorno da circulação espontânea?",
+      "options": {
+        "A": "75 mm Hg",
+        "B": "80 mm Hg",
+        "C": "85 mm Hg",
+        "D": "90 mm Hg"
+      }
+    },
+    {
+      "id": 31,
+      "text": "Qual deve ser o foco principal do instrutor de RCP em uma equipe de ressuscitação?",
+      "options": {
+        "A": "Fornecer feedback positivo",
+        "B": "Garantir a RCP de alta qualidade",
+        "C": "Resolver discussões dentro da equipe",
+        "D": "Documentar os resultados da RCP"
+      }
+    },
+    {
+      "id": 32,
+      "text": "Com base na avaliação inicial desse paciente, que algoritmo de SAVC deve ser seguido?",
+      "options": {
+        "A": "Síndromes coronárias agudas",
+        "B": "Taquicardia com pulso para adultos",
+        "C": "Suspeita de AVC em adulto",
+        "D": "PCR em adulto"
+      },
+      "image": "ecg_q32_cenario.png",
+      "scenario": "Uma mulher de 68 anos de idade apresenta sensação de desfalecer, náusea e desconforto torácico. Em sua avaliação, você a encontra acordada e consciente, mas com aparência doente, pálida e excessivamente diaforética. Seu pulso radial é fraco, quase imperceptível e rápido. Você não consegue mensurar a pressão arterial. Ela não apresenta nenhum edema aparente óbvio, e as veias do pescoço não estão engurgitadas. Os sons pulmonares parecem equivalentes, com crepitações moderadas presentes bilateralmente. O monitor cardíaco evidencia o ritmo mostrado aqui."
+    },
+    {
+      "id": 33,
+      "text": "O oxímetro de pulso do paciente mostra uma leitura de 84% em ar ambiente. Que medida inicial você deve tomar?",
+      "options": {
+        "A": "Realizar ventilação com bolsa-máscara",
+        "B": "Intubar o paciente",
+        "C": "Administrar oxigênio",
+        "D": "Verificar o conector do oxímetro de pulso"
+      },
+      "scenario": "Uma mulher de 68 anos de idade apresenta sensação de desfalecer, náusea e desconforto torácico. Em sua avaliação, você a encontra acordada e consciente, mas com aparência doente, pálida e excessivamente diaforética. Seu pulso radial é fraco, quase imperceptível e rápido. Você não consegue mensurar a pressão arterial. Ela não apresenta nenhum edema aparente óbvio, e as veias do pescoço não estão engurgitadas. Os sons pulmonares parecem equivalentes, com crepitações moderadas presentes bilateralmente. O monitor cardíaco evidencia o ritmo mostrado aqui."
+    },
+    {
+      "id": 34,
+      "text": "Após a avaliação inicial do paciente, que intervenção você deve fazer em seguida?",
+      "options": {
+        "A": "A cardioversão sincronizada",
+        "B": "Administração de amiodarona 150 mg IM",
+        "C": "Desfibrilação imediata",
+        "D": "Intubação endotraqueal"
+      },
+      "scenario": "Uma mulher de 68 anos de idade apresenta sensação de desfalecer, náusea e desconforto torácico. Em sua avaliação, você a encontra acordada e consciente, mas com aparência doente, pálida e excessivamente diaforética. Seu pulso radial é fraco, quase imperceptível e rápido. Você não consegue mensurar a pressão arterial. Ela não apresenta nenhum edema aparente óbvio, e as veias do pescoço não estão engurgitadas. Os sons pulmonares parecem equivalentes, com crepitações moderadas presentes bilateralmente. O monitor cardíaco evidencia o ritmo mostrado aqui."
+    },
+    {
+      "id": 35,
+      "text": "Se o paciente ficar apneico e sem pulso, mas o ritmo permanecer o mesmo, o que teria prioridade mais alta?",
+      "options": {
+        "A": "Administrar amiodarona 300 mg",
+        "B": "Administrar atropina 0,5 mg",
+        "C": "Obtém uma via aérea avançada",
+        "D": "Realizar desfibrilação"
+      },
+      "scenario": "Uma mulher de 68 anos de idade apresenta sensação de desfalecer, náusea e desconforto torácico. Em sua avaliação, você a encontra acordada e consciente, mas com aparência doente, pálida e excessivamente diaforética. Seu pulso radial é fraco, quase imperceptível e rápido. Você não consegue mensurar a pressão arterial. Ela não apresenta nenhum edema aparente óbvio, e as veias do pescoço não estão engurgitadas. Os sons pulmonares parecem equivalentes, com crepitações moderadas presentes bilateralmente. O monitor cardíaco evidencia o ritmo mostrado aqui."
+    },
+    {
+      "id": 36,
+      "text": "Você instrui um membro da equipe a administrar 1 mg de atropina IV. Que resposta é um exemplo de comunicação em circuito fechado?",
+      "options": {
+        "A": "\"Vou administrá-la daqui a alguns minutos.\"",
+        "B": "\"OK.\"",
+        "C": "\"Vou preparar uma dose de 1 mg e atropina.\"",
+        "D": "\"Você tem certeza de que é isso o que você deseja administrar?\""
+      }
+    },
+    {
+      "id": 37,
+      "text": "O que melhor descreve a medida tomada pelo líder da equipe para evitar ineficiência durante uma tentativa de ressuscitação?",
+      "options": {
+        "A": "Atribuir mais tarefas aos membros mais experientes da equipe",
+        "B": "Executar as tarefas mais complexas",
+        "C": "Delegar claramente as tarefas",
+        "D": "Atribuir as mesmas tarefas a mais de um membro da equipe"
+      }
+    },
+    {
+      "id": 38,
+      "text": "Qual é um dos efeitos da ventilação excessiva?",
+      "options": {
+        "A": "Diminuição do débito cardíaco",
+        "B": "Diminuição da pressão intratorácica",
+        "C": "Elevação das pressões de perfusão",
+        "D": "Elevação do retorno venoso"
+      }
+    },
+    {
+      "id": 39,
+      "text": "Que opção melhor descreve o tempo recomendado de verificação do pulso durante a avaliação de SBV?",
+      "options": {
+        "A": "1 a 4 segundos",
+        "B": "5 a 10 segundos",
+        "C": "11 a 15 segundos",
+        "D": "16 a 20 segundos"
+      }
+    },
+    {
+      "id": 40,
+      "text": "Qual é a primeira dose intravenosa recomendada de amiodarona para um paciente com fibrilação ventricular refratária?",
+      "options": {
+        "A": "100 mg",
+        "B": "150 mg",
+        "C": "250 mg",
+        "D": "300 mg"
+      }
+    },
+    {
+      "id": 41,
+      "text": "Que instituição é um destino mais apropriado para o SME, no caso de um paciente em PCR que obteve retorno da circulação espontânea no pré-hospitalar?",
+      "options": {
+        "A": "Unidade completa de tratamento de AVC",
+        "B": "Unidade de tratamento de reabilitação aguda",
+        "C": "Unidade de tratamento agudo de longo prazo",
+        "D": "Centro médico com competência para tratamento de reperfusão coronária"
+      }
+    },
+    {
+      "id": 42,
+      "text": "Um paciente apresenta perda de consciência de forma presenciada. O ECG da derivação II revela este ritmo. Qual o tratamento apropriado?",
+      "options": {
+        "A": "Administração de adenosina 6 mg por bolus IV",
+        "B": "Administração de epinefrina 1 mg por bolus IV",
+        "C": "Desfibrilação",
+        "D": "A cardioversão sincronizada"
+      },
+      "image": "ecg_q42.png"
+    },
+    {
+      "id": 43,
+      "text": "Em paciente com IAMST, o que melhor descreve o tempo máximo recomendado entre o primeiro contato médico e a insuflação do balão para uma intervenção coronária percutânea?",
+      "options": {
+        "A": "180 minutos",
+        "B": "150 minutos",
+        "C": "120 minutos",
+        "D": "90 minutos"
+      }
+    },
+    {
+      "id": 44,
+      "text": "Você está administrando compressões torácicas durante uma tentativa de ressuscitação. Que frequência você deve usar?",
+      "options": {
+        "A": "Inferior a 80/min",
+        "B": "80 a 90/min",
+        "C": "100 a 120/min",
+        "D": "Superior a 120/min"
+      }
+    },
+    {
+      "id": 45,
+      "text": "Que intervalo máximo você deve permitir para uma interrupção nas compressões torácicas?",
+      "options": {
+        "A": "10 segundos",
+        "B": "15 segundos",
+        "C": "20 segundos",
+        "D": "25 segundos"
+      }
+    },
+    {
+      "id": 46,
+      "text": "Para ventilar apropriadamente um paciente perfusão (pulso presente), com que frequência você pressiona a bolsa?",
+      "options": {
+        "A": "Uma vez a cada 3 segundos",
+        "B": "Uma vez a cada 6 segundos",
+        "C": "Uma vez a cada 10 segundos",
+        "D": "Uma vez a cada 12 segundos"
+      }
+    },
+    {
+      "id": 47,
+      "text": "Os profissionais do SME estão tratando um paciente com suspeita de AVC. De acordo com o Algoritmo para suspeita de AVC em adultos, que ação crítica da equipe do SME agilizará o tratamento desse paciente na entrada e reduzirá o tempo de tratamento?",
+      "options": {
+        "A": "Fornecer notificação prévia ao hospital",
+        "B": "Estabelecer o acesso IV",
+        "C": "Examinar o histórico do paciente",
+        "D": "Tratar a hipertensão"
+      }
+    },
+    {
+      "id": 48,
+      "text": "O ECG de um paciente com desconforto respiratório e pressão arterial de 70/50 mmHg apresenta o ritmo da derivação II mostrado aqui. Qual o tratamento apropriado?",
+      "options": {
+        "A": "Administrar 6 mg de adenosina por bolus IV",
+        "B": "Realizar cardioversão sincronizada",
+        "C": "Realizar manobras vagais",
+        "D": "Realizar desfibrilação"
+      },
+      "image": "ecg_q48.png"
+    },
+    {
+      "id": 49,
+      "text": "Com relação à escolha e manutenção constante de uma temperatura, que intervalo é recomendado para obter um controle direcionado da temperatura pós-PCR?",
+      "options": {
+        "A": "26ºC a 28ºC",
+        "B": "29ºC a 31ºC",
+        "C": "32ºC a 36ºC",
+        "D": "35ºC a 37ºC"
+      }
+    },
+    {
+      "id": 50,
+      "text": "Um atendente está cuidando de um paciente com um histórico de insuficiência cardíaca congestiva. O paciente está apresentando falta de ar, pressão arterial de 68/50 mmHg e frequência cardíaca de 190/min. O ECG da derivação II do paciente é mostrado aqui. O que melhor caracteriza o ritmo desse paciente?",
+      "options": {
+        "A": "Taquicardia ventricular de perfusão",
+        "B": "Taquicardia sinusal",
+        "C": "Taquicardia supraventricular estável",
+        "D": "Taquicardia supraventricular instável"
+      },
+      "image": "ecg_q50.png"
+    }
+  ]
+}
