@@ -1,0 +1,25 @@
+- generic [ref=f3e2]:
+  - generic [ref=f3e12]:
+    - generic [ref=f3e13]: Questão 11 de 50
+    - generic [ref=f3e14]: João Teste
+  - generic [ref=f3e17]:
+    - generic [ref=f3e18]:
+      - strong [ref=f3e19]: Cenário clínico
+      - text: Há 2 dias, um homem de 45 anos teve implantados stents em artéria coronária. Hoje, ele está sentindo dor intensa e relatando desconforto ("esmagamento") no tórax. Ele está pálido e diaforético e com a pele fria ao toque. O pulso radial está bastante fraco, a pressão arterial é 64/40 mmHg, a frequência respiratória é 28 ventilações/min e a saturação de oxigênio é 89% no ar ambiente. No momento em que foi conectado, o monitor cardíaco evidenciou uma taquicardia ventricular, que rapidamente mudou para fibrilação ventricular.
+    - paragraph [ref=f3e20]: Com base na apresentação inicial desse paciente, que quadro clínico você acredita que tenha desencadeado a PCR?
+    - generic [ref=f3e21]:
+      - button "A Síndrome coronária aguda" [ref=f3e22] [cursor=pointer]:
+        - generic [ref=f3e23]: A
+        - generic [ref=f3e24]: Síndrome coronária aguda
+      - button "B Insuficiência cardíaca aguda" [ref=f3e25] [cursor=pointer]:
+        - generic [ref=f3e26]: B
+        - generic [ref=f3e27]: Insuficiência cardíaca aguda
+      - button "C AVC isquêmico agudo" [ref=f3e28] [cursor=pointer]:
+        - generic [ref=f3e29]: C
+        - generic [ref=f3e30]: AVC isquêmico agudo
+      - button "D Taquicardia supraventricular com dor torácica isquêmica" [ref=f3e31] [cursor=pointer]:
+        - generic [ref=f3e32]: D
+        - generic [ref=f3e33]: Taquicardia supraventricular com dor torácica isquêmica
+  - generic [ref=f3e34]:
+    - button "← Anterior" [ref=f3e35] [cursor=pointer]
+    - button "Próxima →" [ref=f3e36] [cursor=pointer]

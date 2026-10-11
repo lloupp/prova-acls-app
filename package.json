@@ -1,0 +1,25 @@
+{
+  "name": "prova-acls-app",
+  "version": "1.0.0",
+  "description": "App de prova ACLS para tablet — múltipla escolha com imagens de ECG e envio por email.",
+  "private": true,
+  "scripts": {
+    "test": "node scripts/validate.js",
+    "build": "cp PROVA_ACLS.json www/data/PROVA_ACLS.json && python3 scripts/optimize-images.py",
+    "optimize-images": "python3 scripts/optimize-images.py",
+    "start": "node scripts/serve.js",
+    "dev": "node scripts/serve.js",
+    "worker:dev": "wrangler dev",
+    "worker:deploy": "wrangler deploy",
+    "pages:deploy": "wrangler pages deploy www --project-name prova-acls",
+    "cap:add": "cap add android",
+    "cap:sync": "cap sync android",
+    "apk": "cd android && ./gradlew assembleDebug"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/cli": "^6.2.1",
+    "@capacitor/core": "^6.2.1",
+    "wrangler": "^3.90.0"
+  }
+}

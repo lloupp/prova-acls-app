@@ -1,0 +1,28 @@
+- generic [ref=f2e2]:
+  - generic [ref=f2e12]:
+    - generic [ref=f2e13]: Questão 33 de 50
+    - generic [ref=f2e14]: Maria Teste
+  - generic [ref=f2e16]:
+    - generic [ref=f2e17]:
+      - strong [ref=f2e18]: Cenário clínico
+      - text: Uma mulher de 68 anos de idade apresenta sensação de desfalecer, náusea e desconforto torácico. Em sua avaliação, você a encontra acordada e consciente, mas com aparência doente, pálida e excessivamente diaforética. Seu pulso radial é fraco, quase imperceptível e rápido. Você não consegue mensurar a pressão arterial. Ela não apresenta nenhum edema aparente óbvio, e as veias do pescoço não estão engurgitadas. Os sons pulmonares parecem equivalentes, com crepitações moderadas presentes bilateralmente. O monitor cardíaco evidencia o ritmo mostrado aqui.
+    - generic [ref=f2e19]:
+      - img "Traçado de ECG da questão 33" [ref=f2e21]
+      - paragraph [ref=f2e22]: Mesmo ritmo do cenário — toque para ampliar
+    - paragraph [ref=f2e23]: O oxímetro de pulso do paciente mostra uma leitura de 84% em ar ambiente. Que medida inicial você deve tomar?
+    - generic [ref=f2e24]:
+      - button "A Realizar ventilação com bolsa-máscara" [ref=f2e25] [cursor=pointer]:
+        - generic [ref=f2e26]: A
+        - generic [ref=f2e27]: Realizar ventilação com bolsa-máscara
+      - button "B Intubar o paciente" [ref=f2e28] [cursor=pointer]:
+        - generic [ref=f2e29]: B
+        - generic [ref=f2e30]: Intubar o paciente
+      - button "C Administrar oxigênio" [ref=f2e31] [cursor=pointer]:
+        - generic [ref=f2e32]: C
+        - generic [ref=f2e33]: Administrar oxigênio
+      - button "D Verificar o conector do oxímetro de pulso" [ref=f2e34] [cursor=pointer]:
+        - generic [ref=f2e35]: D
+        - generic [ref=f2e36]: Verificar o conector do oxímetro de pulso
+  - generic [ref=f2e37]:
+    - button "← Anterior" [ref=f2e38] [cursor=pointer]
+    - button "Próxima →" [ref=f2e39] [cursor=pointer]

@@ -1,0 +1,25 @@
+- generic [ref=e2]:
+  - generic [ref=e51]:
+    - generic [ref=e52]: Questão 2 de 50
+    - generic [ref=e53]: Maria Teste
+  - generic [ref=e56]:
+    - generic [ref=e57]:
+      - img "Traçado de ECG da questão 2" [ref=e59]
+      - paragraph [ref=e60]: Toque na imagem para ampliar
+    - paragraph [ref=e61]: Qual das opções melhor descreve esse ritmo?
+    - generic [ref=e62]:
+      - button "A Taquicardia ventricular monomórfica" [ref=e63] [cursor=pointer]:
+        - generic [ref=e64]: A
+        - generic [ref=e65]: Taquicardia ventricular monomórfica
+      - button "B Taquicardia ventricular polimórfica" [ref=e66] [cursor=pointer]:
+        - generic [ref=e67]: B
+        - generic [ref=e68]: Taquicardia ventricular polimórfica
+      - button "C Taquicardia supraventricular" [ref=e69] [cursor=pointer]:
+        - generic [ref=e70]: C
+        - generic [ref=e71]: Taquicardia supraventricular
+      - button "D Fibrilação ventricular" [ref=e72] [cursor=pointer]:
+        - generic [ref=e73]: D
+        - generic [ref=e74]: Fibrilação ventricular
+  - generic [ref=e75]:
+    - button "← Anterior" [ref=e76] [cursor=pointer]
+    - button "Próxima →" [ref=e77] [cursor=pointer]

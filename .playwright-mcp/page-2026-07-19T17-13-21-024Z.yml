@@ -1,0 +1,22 @@
+- generic [ref=f2e2]:
+  - generic [ref=f2e20]:
+    - generic [ref=f2e21]: Questão 1 de 50
+    - generic [ref=f2e22]: João Teste
+  - generic [ref=f2e24]:
+    - paragraph [ref=f2e25]: Qual desses exames deve ser realizado, no caso de um paciente com suspeita de AVC, o mais rápido possível e não mais do que 20 minutos após a chegada ao hospital?
+    - generic [ref=f2e26]:
+      - button "A ECG de 12 derivações" [ref=f2e27] [cursor=pointer]:
+        - generic [ref=f2e28]: A
+        - generic [ref=f2e29]: ECG de 12 derivações
+      - button "B Enzimas cardíacas" [ref=f2e30] [cursor=pointer]:
+        - generic [ref=f2e31]: B
+        - generic [ref=f2e32]: Enzimas cardíacas
+      - button "C Coagulograma" [ref=f2e33] [cursor=pointer]:
+        - generic [ref=f2e34]: C
+        - generic [ref=f2e35]: Coagulograma
+      - button "D Tomografia computadorizada de cabeça sem contraste" [ref=f2e36] [cursor=pointer]:
+        - generic [ref=f2e37]: D
+        - generic [ref=f2e38]: Tomografia computadorizada de cabeça sem contraste
+  - generic [ref=f2e39]:
+    - button "← Anterior" [disabled] [ref=f2e40]
+    - button "Próxima →" [ref=f2e41] [cursor=pointer]

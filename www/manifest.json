@@ -1,0 +1,14 @@
+{
+  "name": "Prova ACLS",
+  "short_name": "Prova ACLS",
+  "description": "Prova ACLS em tablet — múltipla escolha com imagens de ECG.",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#004499",
+  "start_url": "./index.html",
+  "scope": "./",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

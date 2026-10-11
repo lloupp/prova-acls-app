@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+  <meta name="theme-color" content="#004499">
+  <title>Prova ACLS</title>
+  <link rel="icon" href="icon.png" type="image/png">
+  <link rel="apple-touch-icon" href="icon.png">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="app" aria-live="polite"></div>
+
+  <!-- Overlay de zoom da imagem ECG (arraste para mover, +/− ou pinça para ampliar) -->
+  <div id="zoom-overlay" class="zoom-overlay" hidden>
+    <button class="zoom-close" aria-label="Fechar">&times;</button>
+    <div class="zoom-controles">
+      <button class="zoom-btn" data-zoom="out" aria-label="Diminuir zoom">−</button>
+      <button class="zoom-btn" data-zoom="reset" aria-label="Restaurar zoom">100%</button>
+      <button class="zoom-btn" data-zoom="in" aria-label="Aumentar zoom">+</button>
+    </div>
+    <div id="zoom-palco" class="zoom-palco">
+      <img id="zoom-img" alt="ECG ampliado" draggable="false">
+    </div>
+  </div>
+
+  <!-- config.js define window.ACLS_API_URL (override da API para o build APK). Deve vir ANTES do app.js. -->
+  <script src="config.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('sw.js').catch(err =>
+          console.warn('SW não registrado:', err));
+      });
+    }
+  </script>
+</body>
+</html>

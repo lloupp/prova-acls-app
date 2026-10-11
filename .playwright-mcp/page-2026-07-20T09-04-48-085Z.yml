@@ -1,0 +1,19 @@
+- generic [ref=f2e3]:
+  - generic [ref=f2e4]:
+    - heading "Prova ACLS - Exame A" [level=1] [ref=f2e5]
+    - paragraph [ref=f2e6]: Suporte Avançado de Vida Cardiovascular
+    - generic [ref=f2e7]: 50 questões · múltipla escolha
+  - generic [ref=f2e8]:
+    - generic [ref=f2e9]:
+      - generic [ref=f2e10]: Nome completo *
+      - textbox "Nome completo *" [ref=f2e11]:
+        - /placeholder: Digite seu nome
+    - generic [ref=f2e12]:
+      - generic [ref=f2e13]: Turma
+      - textbox "Turma" [ref=f2e14]:
+        - /placeholder: "Ex.: Turma 2026-1"
+    - generic [ref=f2e15]:
+      - generic [ref=f2e16]: Edição do curso
+      - textbox "Edição do curso" [ref=f2e17]:
+        - /placeholder: "Ex.: ACLS Abril/2026"
+    - button "Iniciar prova" [ref=f2e18] [cursor=pointer]

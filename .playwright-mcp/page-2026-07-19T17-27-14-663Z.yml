@@ -1,0 +1,29 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - generic [ref=f1e12]:
+      - generic [ref=f1e13]: Questão 2 de 50
+      - generic [ref=f1e14]: Aluno Teste
+    - generic [ref=f1e16]:
+      - generic [ref=f1e17]:
+        - img "Traçado de ECG da questão 2" [ref=f1e18]
+        - paragraph [ref=f1e19]: Toque na imagem para ampliar
+      - paragraph [ref=f1e20]: Qual das opções melhor descreve esse ritmo?
+      - generic [ref=f1e21]:
+        - button "A Taquicardia ventricular monomórfica" [ref=f1e22] [cursor=pointer]:
+          - generic [ref=f1e23]: A
+          - generic [ref=f1e24]: Taquicardia ventricular monomórfica
+        - button "B Taquicardia ventricular polimórfica" [ref=f1e25] [cursor=pointer]:
+          - generic [ref=f1e26]: B
+          - generic [ref=f1e27]: Taquicardia ventricular polimórfica
+        - button "C Taquicardia supraventricular" [ref=f1e28] [cursor=pointer]:
+          - generic [ref=f1e29]: C
+          - generic [ref=f1e30]: Taquicardia supraventricular
+        - button "D Fibrilação ventricular" [ref=f1e31] [cursor=pointer]:
+          - generic [ref=f1e32]: D
+          - generic [ref=f1e33]: Fibrilação ventricular
+    - generic [ref=f1e34]:
+      - button "← Anterior" [ref=f1e35] [cursor=pointer]
+      - button "Próxima →" [ref=f1e36] [cursor=pointer]
+  - generic [ref=f1e37]:
+    - button "Fechar" [ref=f1e38] [cursor=pointer]: ×
+    - img "ECG ampliado" [ref=f1e39]

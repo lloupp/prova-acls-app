@@ -1,0 +1,11 @@
+name = "prova-acls-api"
+main = "worker/email.js"
+compatibility_date = "2024-11-01"
+
+# Variável não-secreta (destinatário). Secrets (BREVO_API_KEY) via:
+#   npx wrangler secret put BREVO_API_KEY
+# Defina também PROFESSORA_EMAIL e FROM_EMAIL no dashboard ou como vars abaixo.
+[vars]
+EMAIL_PROVIDER = "brevo"
+FROM_EMAIL = "prova@prova-acls.pages.dev"
+# PROFESSORA_EMAIL = "professora@exemplo.com"   # preencher no deploy

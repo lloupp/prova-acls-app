@@ -1,0 +1,6 @@
+- generic [ref=f2e2]:
+  - generic [ref=f2e203]:
+    - generic [ref=f2e204]: ✅
+    - heading "Respostas enviadas!" [level=2] [ref=f2e205]
+    - paragraph [ref=f2e206]: A prova foi enviada com sucesso à professora. Você já pode entregar o tablet.
+  - button "Iniciar prova de outro aluno" [ref=f2e208] [cursor=pointer]

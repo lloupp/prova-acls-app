@@ -1,0 +1,25 @@
+- generic [ref=f2e2]:
+  - generic [ref=f2e12]:
+    - generic [ref=f2e13]: Questão 50 de 50
+    - generic [ref=f2e14]: Maria Teste
+  - generic [ref=f2e17]:
+    - generic [ref=f2e18]:
+      - img "Traçado de ECG da questão 50" [ref=f2e20]
+      - paragraph [ref=f2e21]: Toque na imagem para ampliar
+    - paragraph [ref=f2e22]: Um atendente está cuidando de um paciente com um histórico de insuficiência cardíaca congestiva. O paciente está apresentando falta de ar, pressão arterial de 68/50 mmHg e frequência cardíaca de 190/min. O ECG da derivação II do paciente é mostrado aqui. O que melhor caracteriza o ritmo desse paciente?
+    - generic [ref=f2e23]:
+      - button "A Taquicardia ventricular de perfusão" [ref=f2e24] [cursor=pointer]:
+        - generic [ref=f2e25]: A
+        - generic [ref=f2e26]: Taquicardia ventricular de perfusão
+      - button "B Taquicardia sinusal" [ref=f2e27] [cursor=pointer]:
+        - generic [ref=f2e28]: B
+        - generic [ref=f2e29]: Taquicardia sinusal
+      - button "C Taquicardia supraventricular estável" [ref=f2e30] [cursor=pointer]:
+        - generic [ref=f2e31]: C
+        - generic [ref=f2e32]: Taquicardia supraventricular estável
+      - button "D Taquicardia supraventricular instável" [ref=f2e33] [cursor=pointer]:
+        - generic [ref=f2e34]: D
+        - generic [ref=f2e35]: Taquicardia supraventricular instável
+  - generic [ref=f2e36]:
+    - button "← Anterior" [ref=f2e37] [cursor=pointer]
+    - button "Revisar e enviar" [ref=f2e38] [cursor=pointer]
